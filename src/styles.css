@@ -1,0 +1,33 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.table-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.add-row-button,
+.add-option-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.add-option-button {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
